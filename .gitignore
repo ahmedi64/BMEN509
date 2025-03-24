@@ -1,0 +1,12 @@
+# Ignore data folder containing large dataset
+data/
+
+data.zip
+
+# Ignore model files
+brain_tumor_segmentation_model.h5
+
+# Ignore any temporary or backup files
+*.bak
+*.tmp
+*.swp
